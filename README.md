@@ -1,10 +1,6 @@
 # 👨‍💻 Nikhil Nitin Badgujar
 ### Software Developer | AI & Data Science Student
 
-<p align="center">
-  <img src="https://img.icons8.com/color/480/software-developer.png" width="200"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -88,10 +84,10 @@ To become a professional software developer and work on real-world projects in S
 
 ### 🧰 Tools
 
-<p>
-<img src="https://img.icons8.com/color/48/microsoft-excel.png"/>
-<img src="https://img.icons8.com/color/48/microsoft-word.png"/>
-<img src="https://img.icons8.com/color/48/microsoft-powerpoint.png"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Word"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" alt="PowerPoint"/>
 </p>
 
 - MS Excel
